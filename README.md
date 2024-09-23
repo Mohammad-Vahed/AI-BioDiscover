@@ -25,7 +25,7 @@ This project implements an AI/ML tool designed to predict molecular properties b
 ## Installation
 To set up the project, clone this repository and install the required packages:
 
-```bash
+
 git clone https://github.com/yourusername/AI_ML_Antibody_Design_Tool.git
 cd AI_ML_Antibody_Design_Tool
 pip install -r requirements.txt
@@ -71,4 +71,4 @@ bioinformati84@gmail.com
 https://github.com/Mohammad-Vahed
 https://www.linkedin.com/in/mohammad-vahed-53485530/
 
-
+```bash

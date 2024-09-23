@@ -33,12 +33,12 @@ cd AI_ML_Antibody_Design_Tool
 pip install -r requirements.txt
 
 
-##Usage
+## Usage
 Prepare your dataset in the data directory. The dataset should be in CSV format with columns for antibody sequences and their corresponding properties.
 Open the Jupyter notebook located in the notebooks directory: antibody_design_example.ipynb.
 Follow the instructions in the notebook to load data, train the model, evaluate performance, and visualize results.
 
-##Data
+## Data
 The example dataset can be found in the data/example_dataset.csv file. This dataset includes sequences of antibodies and a corresponding property score. You can modify this dataset or add your own for testing.
 
 Sample Dataset Format
@@ -47,7 +47,7 @@ sequence,property
 "FGHIKLMNPQRSTVWYACDE",0.65
 ...
 
-##Example
+## Example
 In the notebooks directory, you will find antibody_design_example.ipynb, which provides a step-by-step guide on using the tool. It covers data loading, preprocessing, model training, evaluation, and visualization of results.
 
 Running the Notebook
@@ -62,7 +62,7 @@ jupyter notebook
 
 Open antibody_design_example.ipynb and follow the instructions.
 
-#Key Improvements
+## Key Improvements
 Multiple Models: The train_model function now supports training different types of models (Random Forest, Linear Regression, and Support Vector Regression).
 Hyperparameter Tuning: Users can pass hyperparameters for GridSearchCV to optimize the model.
 Additional Evaluation Metrics: The evaluation function now includes Mean Absolute Error (MAE) and R² score along with MSE.
@@ -71,10 +71,10 @@ Visualization Improvements: The plotting function uses Seaborn for enhanced visu
 ##Contributions
 Contributions are welcome! Please feel free to open issues or submit pull requests. If you have ideas for improvements or features, I'd love to hear them.
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-##Contact
+## Contact
 bioinformati84@gmail.com
 https://github.com/Mohammad-Vahed
 https://www.linkedin.com/in/mohammad-vahed-53485530/

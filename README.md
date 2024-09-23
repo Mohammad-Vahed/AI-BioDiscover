@@ -70,7 +70,7 @@ Hyperparameter Tuning: Users can pass hyperparameters for GridSearchCV to optimi
 Additional Evaluation Metrics: The evaluation function now includes Mean Absolute Error (MAE) and R² score along with MSE.
 Visualization Improvements: The plotting function uses Seaborn for enhanced visualization.
 
-##Contributions
+## Contributions
 Contributions are welcome! Please feel free to open issues or submit pull requests. If you have ideas for improvements or features, I'd love to hear them.
 
 ## License

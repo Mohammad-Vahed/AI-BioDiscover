@@ -22,7 +22,7 @@ This project implements an AI/ML tool designed to predict molecular properties b
 - [License](#license)
 - [Contact](#contact)
 
-```bash
+
 
 ## Installation
 To set up the project, clone this repository and install the required packages:
@@ -37,6 +37,8 @@ pip install -r requirements.txt
 Prepare your dataset in the data directory. The dataset should be in CSV format with columns for antibody sequences and their corresponding properties.
 Open the Jupyter notebook located in the notebooks directory: antibody_design_example.ipynb.
 Follow the instructions in the notebook to load data, train the model, evaluate performance, and visualize results.
+
+```bash
 
 ## Data
 The example dataset can be found in the data/example_dataset.csv file. This dataset includes sequences of antibodies and a corresponding property score. You can modify this dataset or add your own for testing.

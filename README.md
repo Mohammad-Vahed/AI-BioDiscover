@@ -78,7 +78,9 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Contact
 bioinformati84@gmail.com
+
 https://github.com/Mohammad-Vahed
+
 https://www.linkedin.com/in/mohammad-vahed-53485530/
 
 ```bash

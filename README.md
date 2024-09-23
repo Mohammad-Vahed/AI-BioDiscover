@@ -1,6 +1,12 @@
 # AI-BioDiscover
 AI/ML Tool for Antibody Design and Molecular Property Prediction
 
+AI_ML_Antibody_Design_Tool
+|
+|__ /data
+|    |___ example_dataset.csv
+|
+
 /AI_ML_Antibody_Design_Tool
 │
 ├── /data

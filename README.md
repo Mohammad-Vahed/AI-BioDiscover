@@ -38,7 +38,7 @@ Prepare your dataset in the data directory. The dataset should be in CSV format 
 Open the Jupyter notebook located in the notebooks directory: antibody_design_example.ipynb.
 Follow the instructions in the notebook to load data, train the model, evaluate performance, and visualize results.
 
-```bash
+
 
 ## Data
 The example dataset can be found in the data/example_dataset.csv file. This dataset includes sequences of antibodies and a corresponding property score. You can modify this dataset or add your own for testing.
@@ -80,3 +80,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 bioinformati84@gmail.com
 https://github.com/Mohammad-Vahed
 https://www.linkedin.com/in/mohammad-vahed-53485530/
+
+```bash

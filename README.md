@@ -31,11 +31,12 @@ cd AI_ML_Antibody_Design_Tool
 pip install -r requirements.txt
 
 
-Usage
+##Usage
 Prepare your dataset in the data directory. The dataset should be in CSV format with columns for antibody sequences and their corresponding properties.
 Open the Jupyter notebook located in the notebooks directory: antibody_design_example.ipynb.
 Follow the instructions in the notebook to load data, train the model, evaluate performance, and visualize results.
-Data
+
+##Data
 The example dataset can be found in the data/example_dataset.csv file. This dataset includes sequences of antibodies and a corresponding property score. You can modify this dataset or add your own for testing.
 
 Sample Dataset Format
@@ -44,7 +45,7 @@ sequence,property
 "FGHIKLMNPQRSTVWYACDE",0.65
 ...
 
-Example
+##Example
 In the notebooks directory, you will find antibody_design_example.ipynb, which provides a step-by-step guide on using the tool. It covers data loading, preprocessing, model training, evaluation, and visualization of results.
 
 Running the Notebook
@@ -59,22 +60,15 @@ jupyter notebook
 
 Open antibody_design_example.ipynb and follow the instructions.
 
-Contributions
+##Contributions
 Contributions are welcome! Please feel free to open issues or submit pull requests. If you have ideas for improvements or features, I'd love to hear them.
 
-License
+##License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Contact
-Your Name - your.email@example.com
-GitHub: yourusername
-LinkedIn: yourlinkedin
+##Contact
+bioinformati84@gmail.com
+https://github.com/Mohammad-Vahed
+https://www.linkedin.com/in/mohammad-vahed-53485530/
 
-
-### Notes:
-- Replace `yourusername` and `your.email@example.com` with your actual GitHub username and email address.
-- Customize the sections as needed to fit your specific project details.
-- Ensure the structure of your repository matches the paths referenced in the README. 
-
-This README provides a comprehensive overview of your project, making it easy for users to understand how to use it and contribute. Let me know if you need further changes!
 

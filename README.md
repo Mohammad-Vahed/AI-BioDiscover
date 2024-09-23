@@ -62,6 +62,12 @@ jupyter notebook
 
 Open antibody_design_example.ipynb and follow the instructions.
 
+#Key Improvements
+Multiple Models: The train_model function now supports training different types of models (Random Forest, Linear Regression, and Support Vector Regression).
+Hyperparameter Tuning: Users can pass hyperparameters for GridSearchCV to optimize the model.
+Additional Evaluation Metrics: The evaluation function now includes Mean Absolute Error (MAE) and R² score along with MSE.
+Visualization Improvements: The plotting function uses Seaborn for enhanced visualization.
+
 ##Contributions
 Contributions are welcome! Please feel free to open issues or submit pull requests. If you have ideas for improvements or features, I'd love to hear them.
 
